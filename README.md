@@ -1,2 +1,2 @@
 # spider_control
-爬虫和异步并发控制
+javascript爬虫和异步并发控制
